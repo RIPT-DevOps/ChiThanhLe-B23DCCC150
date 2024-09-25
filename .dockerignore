@@ -1,0 +1,11 @@
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+baocao.md
+
+.log
+*.tmp
+
+.DS_Store
+Thumbs.db
